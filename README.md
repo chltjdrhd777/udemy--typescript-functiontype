@@ -1,0 +1,2 @@
+# udemy--typescript-functiontype
+ok
